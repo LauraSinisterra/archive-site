@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+---
+
+<ul>
+{% for post in collections.web %}
+
+<section class= "list">
+  <a href="{{ post.url }}">
+        <li class="innerlist">
+            <h3>{{ post.data.title }}</h3>
+            <h3>{{ post.data.date }}</h3>
+        </li>
+  </a>
+</section>
+
+{% endfor %}
+</ul>
