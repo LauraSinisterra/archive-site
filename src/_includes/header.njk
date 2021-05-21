@@ -9,17 +9,18 @@
     <div class="nav">
       <nav>
         <ul>
-          <li><a href="/visual">Visual</a>
+          <li><a href="{{ '/visual' | url }}">Visual</a>
           </li>
-          <li><a href="/web">Web</a>
+          <li><a href="{{ '/web' | url }}">Web</a>
           </li>
         </ul>
         </nav>
           <ul>
-        <li><a href="/posts/about">About</a></li>
+        <li><a href="{{ 'posts/About' | url }}">About</a></li>
         </ul>
+        "{{ '/About' | url }}"
         
-    <a href="/"><img src="/assets/styles/img/icon.png" alt=""/></a>
+    <a href="{{ '/' | url }}"><img src="/assets/styles/img/icon.png" alt=""/></a>
 
     </div>
 
