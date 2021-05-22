@@ -5,17 +5,15 @@
         <meta charset="utf-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Archive</title>
-        <link rel="stylesheet" type"text/css" href="{{ 'assets/styles/styles.css' | url }}" />
-
-        
-        <link rel="icon" type="image/png" href="/assets/img/index.png" sizes="32x32">
+        <link rel="stylesheet" type"text/css" href="{{ '/assets/styles/styles.css' | url }}" />
+        <link rel="icon" type="image/png" href="{{ '/assets/img/index.png' | url }}" sizes="32x32">
     </head>
     <body>
-        
+
         {% include "header.njk" %}
     <main>
         <div class="center">
-            <div class="top"> {{ title }} </div>   
+            <div class="top"> {{ title }} </div>
             {{ content | safe }}
         </div>
     </main>
