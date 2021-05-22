@@ -1,6 +1,6 @@
 {% for post in collections.post %}
 <div class="grid-item">
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | url }}">
             {% if post.data.tags | first =="web" %}
                   <img src="{{ '/assets/styles/img/webtag.jpg' | url }}" alt=""/>
             {% elif post.data.tags | first =="visual" %}
