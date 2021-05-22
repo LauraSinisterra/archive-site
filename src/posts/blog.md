@@ -10,7 +10,7 @@ tags:
 Personal blog
 
 
-<img src="/assets/styles/img/blog-1.jpg"/>
+<img src="{{ '/assets/styles/img/blog-1.jpg' | url }}"/>
 
 <img src="/assets/styles/img/blog-2.jpg"/>
 
