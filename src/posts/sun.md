@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: suns
+title: sun
 date: 2021-05
 tags: 
     - visual
