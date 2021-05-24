@@ -14,7 +14,7 @@ I'm in charge of the ship and the ship is not a ship; is the light of one thousa
 
 <div class="grid-container">
     <div class="grid-item">
-        <img src="{{ '/assets/styles/img/ink-radio.jpg| url }}" alt=""/>
+        <img src="{{ '/assets/styles/img/sun-1.jpg| url }}" alt=""/>
             <p>25.05.21</p>
     </div>
 </div>
