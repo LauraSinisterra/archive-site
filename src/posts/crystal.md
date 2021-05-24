@@ -26,6 +26,6 @@ The practice of the many aspects that composes who I am, come together in this p
 
 <div class="grid-container">
     <div class="grid-item">
-        <img src="{{ '/assets/styles/img/crystal.jpg' }}" alt=""/>
+        <img src="{{ '/assets/styles/img/crystal.jpg' | url }}" alt=""/>
     </div>
 </div>
