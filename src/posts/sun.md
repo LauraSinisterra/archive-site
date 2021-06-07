@@ -16,4 +16,13 @@ I'm in charge of the ship and the ship is not a ship; is the light of one thousa
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/sun-1.jpg' | url }}" alt=""/>
     </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/sun-2.jpg' | url }}" alt=""/>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/sun-3.png' | url }}" alt=""/>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/sun-4.jpg' | url }}" alt=""/>
+    </div>
 </div>
