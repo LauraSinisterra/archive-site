@@ -9,7 +9,7 @@ tags:
 
 
 <p class="text">
-Covers for my curated playlists.
+Covers for my curated playlists. 
 </p>
 
 <div class="grid-container">
@@ -32,17 +32,18 @@ Covers for my curated playlists.
         <img src="{{ '/assets/styles/img/play-2.jpg' | url }}" alt=""/>
         <p><a href="https://open.spotify.com/playlist/1YaYPgEGNDQ5qAnMmaWyiO?si=986324d00b5c42f2">For your chill</a> needs, 24/7. </p>
     </div>
+</div>
+<div class="grid-container">
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/play-1.jpg' | url }}" alt=""/>
         <p><a href="https://open.spotify.com/playlist/5KHRjxaOhry1mbgLbNjvpK?si=c47ea4b036fa4cdb">Light beat</a> vibes.</p>   
     </div> 
-</div>
-
-<div class="grid-container">
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/play-3.jpg' | url }}" alt=""/>
         <p><a href="https://open.spotify.com/playlist/1Aeay61u7Xo9XaqB1JQkDI?si=f1e3d3c25d704b25">Deep</a> focus but make it chill. Work mode, mostly instrumental.</p>
     </div>
+</div>
+<div class="grid-container">
      <div class="grid-item">
         <img src="{{ '/assets/styles/img/play-5.jpg' | url }}" alt=""/>
         <p><a href="https://open.spotify.com/playlist/0qTZ1FkEfTx7EDnLAEPo6h?si=ca185599c1ee4c3b">Cool kid, </a>coolness not included.</p>
