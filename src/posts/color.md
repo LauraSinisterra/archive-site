@@ -13,6 +13,51 @@ Color explorations. Text from Wikipedia, images from Unsplash.
 
 <div class="grid-container">
     <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-1.jpg' | url }}" alt=""/>
+        <p>White 01</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-2.jpg' | url }}" alt=""/>
+        <p>White 02</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-3.jpg' | url }}" alt=""/>
+        <p>White 03</p>
+    </div> 
+</div>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-4.jpg' | url }}" alt=""/>
+        <p>White 04</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-25.jpg' | url }}" alt=""/>
+        <p>White 05</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-6.jpg' | url }}" alt=""/>
+        <p>White 06</p>
+    </div> 
+</div>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-7.jpg' | url }}" alt=""/>
+        <p>White 07</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-8.jpg' | url }}" alt=""/>
+        <p>White 08</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/blanco-9.jpg' | url }}" alt=""/>
+        <p>White 09</p>
+    </div> 
+</div>
+
+<div class="grid-container">
+    <div class="grid-item">
         <img src="{{ '/assets/styles/img/red-1.jpg' | url }}" alt=""/>
         <p>Red 01</p>
     </div>
