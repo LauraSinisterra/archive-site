@@ -32,7 +32,7 @@ Color explorations. Text from Wikipedia, images from Unsplash.
         <p>White 04</p>
     </div>
     <div class="grid-item">
-        <img src="{{ '/assets/styles/img/blanco-25.jpg' | url }}" alt=""/>
+        <img src="{{ '/assets/styles/img/blanco-5.jpg' | url }}" alt=""/>
         <p>White 05</p>
     </div>
     <div class="grid-item">
