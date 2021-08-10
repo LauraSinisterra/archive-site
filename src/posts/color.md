@@ -13,44 +13,44 @@ Visual explorations of color.
 <div class="grid-container">
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-1.jpg' | url }}" alt=""/>
-        <p>White 01</p>
+        <p>Blue 01</p>
     </div>
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-2.jpg' | url }}" alt=""/>
-        <p>White 02</p>
+        <p>Blue 02</p>
     </div>
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-3.jpg' | url }}" alt=""/>
-        <p>White 03</p>
+        <p>Blue 03</p>
     </div> 
 </div>
 <div class="grid-container">
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-4.jpg' | url }}" alt=""/>
-        <p>White 04</p>
+        <p>Blue 04</p>
     </div>
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-5.jpg' | url }}" alt=""/>
-        <p>White 05</p>
+        <p>Blue 05</p>
     </div>
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-6.jpg' | url }}" alt=""/>
-        <p>White 06</p>
+        <p>Blue 06</p>
     </div> 
 </div>
 
 <div class="grid-container">
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-7.jpg' | url }}" alt=""/>
-        <p>White 07</p>
+        <p>Blue 07</p>
     </div>
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-8.jpg' | url }}" alt=""/>
-        <p>White 08</p>
+        <p>Blue 08</p>
     </div>
     <div class="grid-item">
         <img src="{{ '/assets/styles/img/azul-9.jpg' | url }}" alt=""/>
-        <p>White 09</p>
+        <p>Blue 09</p>
     </div> 
 </div>
 
