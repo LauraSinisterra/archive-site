@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Inktober
+title: Inktober 31/31
 date: 2020-10
 tags: 
     - visual
