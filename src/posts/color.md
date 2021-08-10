@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: color 3/10
-date: 2021
+date: 2021-08
 tags: 
     - visual
     - post
