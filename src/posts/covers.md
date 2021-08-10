@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: covers
+title: covers 10/10
 date: 2021-07
 tags: 
     - visual
