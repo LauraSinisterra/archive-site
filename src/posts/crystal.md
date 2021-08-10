@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: crystal
+title: crystal 1/1
 date: 2021-03
 tags: 
     - visual
