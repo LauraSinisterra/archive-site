@@ -12,6 +12,50 @@ Visual explorations of color.
 </p>
 <div class="grid-container">
     <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-1.jpg' | url }}" alt=""/>
+        <p>Purple 01</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-2.jpg' | url }}" alt=""/>
+        <p>Purple 02</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-3.jpg' | url }}" alt=""/>
+        <p>Purple 03</p>
+    </div> 
+</div>
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-4.jpg' | url }}" alt=""/>
+        <p>Purple 04</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-5.jpg' | url }}" alt=""/>
+        <p>Purple 05</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-6.jpg' | url }}" alt=""/>
+        <p>Purple 06</p>
+    </div> 
+</div>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-7.jpg' | url }}" alt=""/>
+        <p>Purple 07</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-8.jpg' | url }}" alt=""/>
+        <p>Purple 08</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/purple-9.jpg' | url }}" alt=""/>
+        <p>Purple 09</p>
+    </div> 
+</div>
+
+<div class="grid-container">
+    <div class="grid-item">
         <img src="{{ '/assets/styles/img/naranja-1.jpg' | url }}" alt=""/>
         <p>Orange 01</p>
     </div>
