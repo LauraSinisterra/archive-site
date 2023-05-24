@@ -1,14 +1,24 @@
 ---
 layout: layouts/post.njk
-title: Blog
-date: 2020-06
-tags:
+title: Triptych
+date: 2023-05
+tags: 
     - textile
     - post
 ---
 
-Personal blog
 
-<img src="{{ '/assets/styles/img/triptych-1.jpg' | url }}"/>
+<p class="text">
+Emrboidery tryptich. Parts one and two.
+</p>
 
-<img src="{{ '/assets/styles/img/triptych-2.jpg' | url }}"/>
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/triptych-1.jpg' | url }}" alt=""/>
+        <p>001</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ '/assets/styles/img/triptych-2.jpg' | url }}" alt=""/>
+        <p>002</p>
+    </div> 
+</div>
