@@ -14,17 +14,17 @@ I like to think and illustrate unbuilt structures; I like to speculate and creat
 
 <div class="grid-container">
     <div class="grid-item">
-        <img src="{{ '/assets/styles/img/architecture-1.png' | url }}" alt=""/>
+        <img src="{{ '/assets/styles/img/Architecture-1.png' | url }}" alt=""/>
             <p>001</p>
     </div>
     <div class="grid-item">
-        <img src="{{ '/assets/styles/img/architecture-2.png' | url }}" alt=""/>
+        <img src="{{ '/assets/styles/img/Architecture-2.png' | url }}" alt=""/>
             <p>002</p>
     </div> 
 </div>
 <div class="grid-container">
     <div class="grid-item">
-        <img src="{{ '/assets/styles/img/architecture-3.png' | url }}" alt=""/>
+        <img src="{{ '/assets/styles/img/Architecture-3.png' | url }}" alt=""/>
             <p>003</p>
     </div> 
 </div>
