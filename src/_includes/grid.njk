@@ -7,6 +7,8 @@
                   <img src="{{ '/assets/styles/img/visualtag.jpg' | url }}" alt=""/>
             {% elif post.data.tags | first=="text" %}
                   <img src="{{ '/assets/styles/img/texttag.jpg' | url }}" alt=""/>
+            {% elif post.data.tags | first=="textile" %}
+                  <img src="{{ '/assets/styles/img/textiletag.jpg' | url }}" alt=""/>
             {% endif %}
 
         <p>{{ post.data.title }}</p>
