@@ -9,7 +9,7 @@ tags:
 
 
 <p class="text">
-I'm in charge of the ship and the ship is not a ship; is the light of one thousand suns.
+I'm in charge of the ship and the ship is not a ship; it's the light of one thousand suns.
 </p>
 
 <div class="grid-container">
