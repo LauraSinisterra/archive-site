@@ -9,7 +9,7 @@ tags:
 
 
 <p class="text">
-I like to think and illustrate unbuilt structures; I like to speculate and create things impossible to recreate in the material world of architecture.
+I like to think about and illustrate unbuilt structures; To speculate and create things impossible to recreate in the material world of architecture.
 </p>
 
 <div class="grid-container">
