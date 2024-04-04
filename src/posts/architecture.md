@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Architecture
+title: Arch-ish
 date: 2023-05
 tags: 
     - visual
