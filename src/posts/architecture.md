@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Speculative architecture
+title: Architecture
 date: 2023-05
 tags: 
     - visual
